@@ -33,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
   </component>
   <component name="RunManager">
@@ -62,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650496740710</updated>
       <workItem from="1650496743608" duration="528000" />
-      <workItem from="1655803093697" duration="356000" />
+      <workItem from="1655803093697" duration="621000" />
     </task>
     <servers />
   </component>
@@ -70,25 +71,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1655803333167">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1655803601171">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1655803333167" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1655803601171" />
     <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1650498876351" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1655803333167">
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1655803601170">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1655803333167" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1655803601170" />
     <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1650498876350" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1655803333167">
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1655803601170">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1655803333167" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1655803601170" />
     <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1650498876348" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1655803333167">
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1655803601171">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1655803333167" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1655803601171" />
     <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1650498876350" />
   </component>
   <component name="XDebuggerManager">
@@ -96,7 +97,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/src/main.rs</url>
-          <line>1</line>
+          <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
