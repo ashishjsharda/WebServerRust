@@ -10,9 +10,16 @@ pub struct ProducerConfig{
 
 pub struct KafkaEventsBuffer {}
 impl KafkaEventsBuffer {
-    pub fn new() -> KafkaEventsBuffer {
-        KafkaEventsBuffer {}
-    }
-    pub fn send(&self, producer: &FutureProducer, topic: &str, key: &str, value: &str) {
-        let _ = producer.send_copy(topic, Some(key), Some(value), None, None);
-    }
+ fn make_producer() -> FutureProducer {
+     let producer_config = ProducerConfig {
+         ack_timeout: 5000,
+         brokers: vec!["localhost:9092".to_string()],
+     };
+     let mut config = ClientConfig::new();
+     config.set("bootstrap.servers", "localhost:9092");
+     config.set("message.timeout.ms", "5000");
+     config.create()
+         .expect("Producer creation error")
+ }
+
+}
