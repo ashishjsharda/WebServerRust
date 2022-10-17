@@ -7,7 +7,12 @@ pub struct ProducerConfig{
     ack_timeout: u64,
     brokers: Vec<String>,
 }
-
+#[derive(Deserialize, Debug, Serialize)]
+pub struct Event {
+    pub topic: String,
+    pub key: String,
+    pub value: String,
+}
 pub struct KafkaEventsBuffer {}
 impl KafkaEventsBuffer {
  fn make_producer() -> FutureProducer {
@@ -21,5 +26,7 @@ impl KafkaEventsBuffer {
      config.create()
          .expect("Producer creation error")
  }
+
+
 
 }
