@@ -20,7 +20,17 @@
   <component name="ChangeListManager">
     <list default="true" id="d2dbf74f-f8a5-46c7-b638-edaa89638366" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/RustTutorial-df3560538c56b6a2/bin-RustTutorial" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/RustTutorial-df3560538c56b6a2/bin-RustTutorial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/RustTutorial-df3560538c56b6a2/bin-RustTutorial.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/RustTutorial-df3560538c56b6a2/bin-RustTutorial.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/RustTutorial-df3560538c56b6a2/output-bin-RustTutorial" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/RustTutorial-df3560538c56b6a2/output-bin-RustTutorial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/RustTutorial.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/RustTutorial.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/RustTutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/RustTutorial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/RustTutorial.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/RustTutorial.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/RustTutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/RustTutorial.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +132,8 @@
       <workItem from="1664554350710" duration="594000" />
       <workItem from="1664615958104" duration="1165000" />
       <workItem from="1665917030307" duration="1659000" />
-      <workItem from="1666002834318" duration="692000" />
+      <workItem from="1666002834318" duration="1310000" />
+      <workItem from="1668398503215" duration="916000" />
     </task>
     <servers />
   </component>

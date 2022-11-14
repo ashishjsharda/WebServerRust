@@ -1,0 +1,13 @@
+prefix=C:\Users\ashis\CLionProjects\RustTutorial\target\debug\build\libz-sys-2a67387b7080f4dd\out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
