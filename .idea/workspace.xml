@@ -20,7 +20,50 @@
   <component name="ChangeListManager">
     <list default="true" id="d2dbf74f-f8a5-46c7-b638-edaa89638366" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/RustTutorial-df3560538c56b6a2/bin-RustTutorial" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/RustTutorial-df3560538c56b6a2/bin-RustTutorial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/RustTutorial.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/RustTutorial.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/RustTutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/RustTutorial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/RustTutorial.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/RustTutorial.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/RustTutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/RustTutorial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/11kihq1qih2nzk1j.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/16aeizsdmofiswxk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1a1m092wt45dyimb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1fasw56gud02okju.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1kzpduxp38t4p4yy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1m16xpwexlygb7a4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1n18x3i6n0zkfvqt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1tafl8wodkafwzae.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1tjv5jcop78v6nvx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1yopf8dits46735o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/1z6qmnzzkkwbm0ti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/21gqpiuolvmhhrco.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/2536o0cxtalvfkrx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/28md0pf5onnrpjbk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/2dvojkhnroiypsig.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/2f5g09imyzdplobp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/2fuz0jyfh42nhyv4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/2xxyxf8t4kcom5kd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/2zcvr2cw6ckz9rgn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/34xfm6ip2zmhewkx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/3di40z3msd0igqiz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/3ebp2d4zwxnpmus3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/3movrvtun9wqfesj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/3nzwqv1qwkwtwjgk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/3o0wflyjh7e45o8j.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/499iufarc0otb63w.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/49rp8kn1uw8nukv8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/4cqtdp7gmxuklvq7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/4oycayz9o49w4ilq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/5b1jzi5masj9oz1e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/5caybhgmekysqoii.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/69gzvld183ffbg5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/jcwc40n3uu3woaq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/ks6est8jb4wapti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/smnmwr9ra5vc3kl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18-f7y63mt6k51u/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/RustTutorial-1srpxsx52m0y1/s-gfec4b005b-1gkoy18.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +167,8 @@
       <workItem from="1665917030307" duration="1659000" />
       <workItem from="1666002834318" duration="1310000" />
       <workItem from="1668398503215" duration="1728000" />
-      <workItem from="1668516760252" duration="118000" />
+      <workItem from="1668516760252" duration="828000" />
+      <workItem from="1669985752954" duration="639000" />
     </task>
     <servers />
   </component>
